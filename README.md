@@ -1,4 +1,5 @@
 # PizzaHouse-SQL-Project
+![](https://github.com/Kshitij3627/PizzaHouse-SQL-Project/blob/d895790b26c2baa1008293b4603fc6f9048ad75d/image.jpg)
 
 # Project Overview
 
