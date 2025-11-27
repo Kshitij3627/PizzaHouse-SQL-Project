@@ -20,6 +20,7 @@ in database design, manipulation, and querying.
  
 - Supports actionable insights for marketing,
  inventory planning, and business growth.
+![](https://github.com/Kshitij3627/PizzaHouse-SQL-Project/blob/1aa1d0289d5df7594136df522047bb1783b57511/Screenshot%202025-11-27%20222653.png)
 
 Task 1: Retrieve the total number of orders placed.
 ```sql
